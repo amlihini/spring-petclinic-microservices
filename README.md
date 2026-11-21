@@ -1,3 +1,5 @@
+> **About this fork:** maintained by [Lihini Abeykoon](https://github.com/amlihini) as a backend performance and reliability engineering workspace: load testing, query tuning, circuit-breaker fault injection and tracing. Plan and measured results are in **[PERFORMANCE.md](PERFORMANCE.md)**. Everything below is the original upstream README.
+
 # Distributed version of the Spring PetClinic Sample Application built with Spring Cloud and Spring AI
 
 [![Build Status](https://github.com/spring-petclinic/spring-petclinic-microservices/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-petclinic-microservices/actions/workflows/maven-build.yml)
